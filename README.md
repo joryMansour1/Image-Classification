@@ -25,3 +25,6 @@
 python predict_tflite.py
 3.البرنامج راح يطلب منك اسم الصورة. اكتب اسم الصورة مع الامتداد (مثلاً test.jpg).
 4.راح يعرض لك التوقع مع نسبة الثقة.
+
+
+## النتيجة : <img width="261" height="137" alt="result" src="https://github.com/user-attachments/assets/e394d3e7-196d-4484-be75-173791bcc633" />
